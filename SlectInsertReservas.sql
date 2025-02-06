@@ -1,0 +1,1 @@
+SELECT * FROM ex6.Reserves;
