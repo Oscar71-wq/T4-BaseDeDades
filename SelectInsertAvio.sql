@@ -1,1 +1,0 @@
-SELECT * FROM ex6.Avio;
