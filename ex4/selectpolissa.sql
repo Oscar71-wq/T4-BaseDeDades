@@ -1,0 +1,1 @@
+SELECT * FROM Exercici4.Polissa;
